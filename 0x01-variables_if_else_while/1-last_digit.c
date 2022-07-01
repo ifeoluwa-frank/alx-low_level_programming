@@ -3,12 +3,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * This program checks the last digit of the value
- * stored in the variable 'n'
- * Return: 0 (Success)
+ * main - Prints the last digit of random number
+ *
+ * Return: Return 0
  */
-int main(viod)
+int main(void)
 {
 	int n;
 	int last;
