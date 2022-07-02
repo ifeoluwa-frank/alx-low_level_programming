@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * Thisprogram prints comma-separated
+ * This program prints comma-separated
  * combined digits
  * Return: 0 (Success)
  */
@@ -21,7 +21,7 @@ int main(void)
 				putchar(i);
 				putchar(j);
 				putchar(k);
-				iif (i != 55)
+				if (i != 55)
 				{
 					putchar(44);
 					putchar(32);
